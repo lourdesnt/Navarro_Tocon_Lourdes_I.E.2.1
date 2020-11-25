@@ -1,3 +1,4 @@
+
 body{
   margin:0;
   padding:0;
@@ -8,25 +9,34 @@ body{
     background-color: #222831;
     color: #e8e8e8;
     text-align: center;
-}
-
-div.col-12{
-  padding: 10px;
+    padding: 10px;
 }
 
 #logo{
-  width: 20%;
+  width: 30%;
 }
 
-.navbar-brand{
-  padding-right: 50px;
+.rrss{
+  width: 2%;
+  float:right;
+  margin: 2mm 2mm 0 0;
+}
+
+.dropdown-item{
+  color: #f05454;
 }
 
 .row h1{
+  padding: 0 1cm 0 1cm;
   margin:3mm;
-  color: black;
+  color: #30475e;
 }
 
-.carouselExampleControls{
-  margin:3mm;
+#carousel {
+  padding: 0 1cm 0 1cm;
+}
+
+#tendencias{
+  color: #30475e;
+  text-decoration: none;
 }
