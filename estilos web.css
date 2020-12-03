@@ -22,7 +22,11 @@ body{
 }
 
 #navlogo{
-  width: 6%;
+  width:2rem;
+}
+
+.navbar{
+  flex-wrap:wrap;
 }
 
 .dropdown-item{
