@@ -68,6 +68,14 @@ a:hover{
   width: 100%;
 }
 
+#footer a{
+  color: #e8e8e8;
+}
+
+#footer a:hover{
+  color: #f05454;
+}
+
 i{
   color: #e8e8e8;
   padding:2mm;
